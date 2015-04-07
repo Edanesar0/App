@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="YOUR_DARK_AB_THEME">
+        <item name="android:actionBarWidgetTheme">@style/YourActionBarWidget</item>
+    </style>
+</resources>
